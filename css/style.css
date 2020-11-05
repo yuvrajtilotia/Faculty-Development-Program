@@ -1,0 +1,26 @@
+*{ margin: 0; padding: 0; box-sizing: border-box; font-family: 'Josefin Sans', sans-serif;}
+
+.carousel-inner img 
+{
+    width: 100%;
+    height: 90vh;
+}
+
+.aboutimg 
+{
+	width: 100%;
+	height: 250px!important;
+}
+.row
+{
+	margin: 3.0rem;
+	padding: 20px 20px;
+}
+.logo
+{
+  	width: 15.0rem;
+    position: relative;
+    top: 50%;
+    left: 10px;
+    margin: 0 auto;
+}
